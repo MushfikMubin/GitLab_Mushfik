@@ -1,0 +1,1 @@
+Git staging area helps to create exactly which changes make to the next commit.
